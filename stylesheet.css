@@ -1,0 +1,25 @@
+
+#mynetwork {
+   
+    width: 100%;
+    height: 91vh;
+    border: 3px  rgb(0, 0, 0);
+    background-color:#eedf9f;
+    margin: 0px 0px;
+  }
+#header{ 
+    border: 3px rgb(0, 0, 0);
+    border-style: solid;
+    margin: 0px 0px;
+    font: 15pt arial ;
+    text-align: center;
+    height: 6vh;
+    width: 100%;
+    background-color: #eedf9f
+}
+#titolo{
+  vertical-align: middle;
+  margin:0px 0px;
+  height :100%;
+}
+
